@@ -1,3 +1,3 @@
-task-14-7
+14-7-React-ContactListJSX
 
-https://katjed.github.io/task-14-7/
+https://katjed.github.io/14-7-React-ContactListJSX/
